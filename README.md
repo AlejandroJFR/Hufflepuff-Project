@@ -11,21 +11,13 @@ Secondary hypothesis: Hufflepuffs creators are responsible for fewer spells and 
 houses.
 
 # Analysis
-Our Hypotheses were confirmed to be true. 
-
-## Key Findings
 Our analysis has shed light on the unique characteristics of Hufflepuff House within the Hogwarts community. 
 
 Our main hypothesis, centered on Hufflepuff's dedication to inclusivity, has been substantiated by our findings. The data reveals a lower proportion of pure-bloods in Hufflepuff compared to other houses, with Slytherin presenting the highest concentration.
 
-Furthermore, our investigation into the educational backgrounds of Hufflepuff members suggests that they commence their magical education with less exposure to the Wizarding World compared to their peers from other houses. This finding aligns with our secondary hypothesis, indicating that Hufflepuff students may have a different starting point in terms of magical experience, potentially impacting their ability to innovate new potions and spells.
+This investigation into the educational backgrounds of Hufflepuff members suggests that they commence their magical education with less exposure to the Wizarding World compared to their peers from other houses. This finding aligns with our secondary hypothesis, indicating that Hufflepuff students may have a different starting point in terms of magical experience, potentially impacting their ability to innovate new potions and spells.
 
-
-##
-
-
-#
-
+These findings underline the significance of inclusivity and diversity within Hufflepuff House and their distinctive role within the Hogwarts community.
 
 # Data Sets
 We decided to use the [Potter DB: API](https://docs.potterdb.com/) to pull data on character’s houses, potions and spell effects and their creators

@@ -1,0 +1,47 @@
+character_house,blood_status,house_blood_status_count,total_students,ratio
+Gryffindor,NULL,233,291,80.0687
+Gryffindor,Half-blood,11,291,3.7801
+Gryffindor,"Pure-blood or Half-blood (possibly)",3,291,1.0309
+Gryffindor,Pure-blood,17,291,5.8419
+Gryffindor,Muggle-born,5,291,1.7182
+Gryffindor,"Pure-blood or half-blood",15,291,5.1546
+Gryffindor,"Pure-blood (most likely)",2,291,0.6873
+Gryffindor,"Pure-blood or half-blood (most likely)",2,291,0.6873
+Gryffindor,"Pure-blood or half-blood (likely)",1,291,0.3436
+Gryffindor,"Half-blood or Muggle-born (most likely)",1,291,0.3436
+Gryffindor,"Half-breed (half-giant)",1,291,0.3436
+Slytherin,NULL,174,253,68.7747
+Slytherin,Pure-blood,33,253,13.0435
+Slytherin,Half-blood,7,253,2.7668
+Slytherin,"Pure-blood or half-blood",29,253,11.4625
+Slytherin,"Pure-blood or half-blood (likely)",1,253,0.3953
+Slytherin,"Pure-blood or half-blood (presumably)",1,253,0.3953
+Slytherin,"Half-blood (most likely)",1,253,0.3953
+Slytherin,"Half-breed (one-eighth-Veela)",1,253,0.3953
+Slytherin,"Pure-blood (most likely)",2,253,0.7905
+Slytherin,"Muggle-born or half-blood (possibly)",1,253,0.3953
+Slytherin,"Pure-blood or half-blood (possibly)",1,253,0.3953
+Slytherin,"Pure-blood or half-blood (most likely)",2,253,0.7905
+Ravenclaw,NULL,153,194,78.8660
+Ravenclaw,"Pure-blood, half-blood or Muggle-born",1,194,0.5155
+Ravenclaw,Half-blood,10,194,5.1546
+Ravenclaw,"Half-blood or Muggle-born",2,194,1.0309
+Ravenclaw,"Pure-blood or half-blood",17,194,8.7629
+Ravenclaw,"Half-breed (part-goblin)",1,194,0.5155
+Ravenclaw,Pure-blood,2,194,1.0309
+Ravenclaw,Muggle-born,4,194,2.0619
+Ravenclaw,"Pure-blood or Half-blood (possibly)",1,194,0.5155
+Ravenclaw,"Muggle-born or half-blood (likely)",1,194,0.5155
+Ravenclaw,"Pure-blood (self-proclaimed)",1,194,0.5155
+Ravenclaw,"Pure-blood or half-blood (likely)",1,194,0.5155
+Hufflepuff,Half-blood,11,198,5.5556
+Hufflepuff,NULL,152,198,76.7677
+Hufflepuff,"Pure-blood or half-blood (possibly)",2,198,1.0101
+Hufflepuff,"Muggle-born (possibly)",1,198,0.5051
+Hufflepuff,"Pure-blood or half-blood",19,198,9.5960
+Hufflepuff,"Half-breed (quarter-Veela) (possibly)",2,198,1.0101
+Hufflepuff,"Pure-blood, half-blood or Muggle-born",1,198,0.5051
+Hufflepuff,Pure-blood,2,198,1.0101
+Hufflepuff,Muggle-born,5,198,2.5253
+Hufflepuff,"Pure-blood or Half-blood (most likely)",2,198,1.0101
+Hufflepuff,"Pure-blood or half-blood (likely)",1,198,0.5051

@@ -10,7 +10,7 @@ Main hypothesis: The ratio of pure-bloods compared to other blood statuses (half
 Secondary hypothesis: Hufflepuffs creators are responsible for fewer spells and potions compared to the other houses.
 houses.
 
-# Analysis
+# Analysis and Conclusion
 Our analysis has shed light on the unique characteristics of Hufflepuff House within the Hogwarts community. 
 
 Our main hypothesis, centered on Hufflepuff's dedication to inclusivity, has been substantiated by our findings. The data reveals a lower proportion of pure-bloods in Hufflepuff compared to other houses, with Slytherin presenting the highest concentration.
